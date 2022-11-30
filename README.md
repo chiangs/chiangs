@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Stephen, a
+I'm **Stephen**, a
 - ~~Soldier~~
 - ~~Business Developer~~
 - ~~Operations Manager~~
@@ -13,9 +13,7 @@ Welcome to my corner of GitHub. Like many others, I have a ☠️ graveyard of a
 
 Please do have a look around and consider contributing to my open source projects and project structure templates.
 
-## Contact
-
-I'm interested in all things web and the intersection of technology and design. I am highly curious about designing _for_ technology and designing _with_ technology.
+I'm interested in all things web and the intersection of technology and design. I am highly curious about designing _for_ technology and designing _with_ technology. Meeting the challenge of building a process that enhances the quality and depth of collaboration between design and development is what I want to make my mark on.
 
 Usually I find myself in teams
 
@@ -26,7 +24,9 @@ Usually I find myself in teams
 - Challenging the status quo.
 - Coaching and mentoring junior developers.
 
-### ***@chiangs***
+## ***@chiangs***
+
+If you are interested collaborating, curious about what a Design Technologist (DT) is, or just interested in an open-ended chat...I can be reached on the following platforms:
 
 🦣 <a rel="me" href="https://uiuxdev.social/@chiangs">Mastodon</a>
 

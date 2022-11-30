@@ -21,7 +21,7 @@ Usually I find myself in teams
 - Challenging the status quo.
 - Coaching and mentoring junior developers.
 
-## ✌️***@chiangs***
+## ✌️@chiangs
 
 If you are interested collaborating, curious about what a Design Technologist (DT) is, or just interested in an open-ended chat...I can be reached on the following platforms:
 

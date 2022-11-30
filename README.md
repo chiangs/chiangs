@@ -29,7 +29,7 @@ If you are interested collaborating, curious about what a Design Technologist (D
 
 🦣 <a rel="me" href="https://uiuxdev.social/@chiangs">Mastodon</a>
 
-🔗 <a rel="me" href="https://linikedin.com/in/chiangs">LinkedIn</a>
+🔗 <a rel="me" href="https://linkedin.com/in/chiangs">LinkedIn</a>
 
 <!---
 chiangs/chiangs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

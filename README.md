@@ -27,7 +27,9 @@ Usually I find myself in teams
 - Coaching and mentoring junior developers.
 
 ### ***@chiangs***
+
 🦣 <a rel="me" href="https://uiuxdev.social/@chiangs">Mastodon</a>
+
 🔗 <a rel="me" href="https://linikedin.com/in/chiangs">LinkedIn</a>
 
 <!---

@@ -1,5 +1,29 @@
 # 👋 Hello!
 
+<!-- Basic Stats -->
+<a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiangs&show_icons=true&count_private=true&theme=tokyonight" height=205/>
+</a>
+<a href="https://github.com/chiangs/chiangs#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiangs&show_icons=true&count_private=true&theme=radical#gh-light-mode-only" height=205/>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangs&langs_count=3&theme=tokyonight" />
+</a>
+<a href="https://github.com/chiangs/chiangs#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangs&langs_count=3&theme=radical#gh-light-mode-only" />
+</a>
+
+<!-- Wakatime -->
+<a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chiangse&theme=tokyonight" width=521/>
+</a>
+<a href="https://github.com/chiangs/chiangs#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chiangse&theme=radical#gh-light-mode-only" width=521/>
+</a>
+
 I'm **Stephen**, a
 
 ~~Soldier~~, ~~Business Developer~~, ~~Operations Manager~~, ~~Full-stack Developer~~, ~~Front-end Developer~~, ~~UX Engineer~~,  

@@ -1,5 +1,3 @@
-# 👋 Hello!
-
 <!-- Basic Stats -->
 <a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiangs&show_icons=true&count_private=true&theme=tokyonight" height=205/>
@@ -24,7 +22,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chiangse&theme=radical#gh-light-mode-only" width=521/>
 </a>
 
-I'm **Stephen**, a
+# 👋 Hello, I'm Stephen!
+
+I'm a:
 
 ~~Soldier~~, ~~Business Developer~~, ~~Operations Manager~~, ~~Full-stack Developer~~, ~~Front-end Developer~~, ~~UX Engineer~~,  
 

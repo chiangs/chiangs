@@ -1,53 +1,35 @@
-<!-- Basic Stats -->
-<a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiangs&show_icons=true&count_private=true&theme=tokyonight" height=205/>
-</a>
-<a href="https://github.com/chiangs/chiangs#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiangs&show_icons=true&count_private=true&theme=radical#gh-light-mode-only" height=205/>
-</a>
+# Stephen Chiang
 
-<!-- Top Languages -->
-<a href="https://github.com/chiangs/chiangs#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangs&langs_count=3&theme=tokyonight" />
-</a>
-<a href="https://github.com/chiangs/chiangs#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangs&langs_count=3&theme=radical#gh-light-mode-only" />
-</a>
+Design Technologist · Technology & Product Leader  
+Stavanger, Norway · Working globally
 
-# 👋 Hello, I'm Stephen!
+I operate at the intersection of design, engineering, and business strategy — 
+leading teams and practices that close the gap between what technology can do 
+and what an organisation needs to deliver.
 
-I'm a:
+10+ years in design and technology. 20+ years leading high-stakes teams across 
+four continents. Currently leading Customer Data & Technology as a national 
+capability at a global design agency.
 
-~~Soldier~~, ~~Business Developer~~, ~~Operations Manager~~, ~~Full-stack Developer~~, ~~Front-end Developer~~, ~~UX Engineer~~,  
+My work spans frontend engineering, design systems, human-machine interfaces, 
+AI and ML integration, data visualisation, and product delivery. I've held the 
+roles of Tech Lead, Product Owner, Scrum Master, and Design Technologist — not 
+because I couldn't specialise, but because the problems worth solving don't 
+respect those boundaries.
 
-`¯\_(ツ)_/¯ Design Technologist`
+---
 
-Welcome to my corner of GitHub. Like many others, I have a ☠️ graveyard of archived code from past projects and experimentations. I've tried to curate the most current and valuable repos in the pinned section below.
+## What you'll find here
 
-Please do have a look around and consider contributing to my open source projects or project structure templates.
+Most of my professional work lives behind NDAs and private repos. What's here 
+is a mix of open source contributions, experimental work, and proof of concepts 
+— the thinking-out-loud layer of a practice that mostly ships in the real world.
 
-I'm interested in all things web and the intersection of technology and design. I am highly curious about designing _for_ technology and designing _with_ technology. Meeting the challenge of building a process that enhances the quality and depth of collaboration between design and development is what I want to make my mark on.
+If something looks useful, use it. If something looks broken, open an issue.
 
-Usually I find myself in teams
+---
 
-- Championing accessibility and inclusivity.
-- Implementing Design Systems and evangelising adoption.
-- Introducing new technologies and standards for projects in the startup phase.
-- Bringing the technological perspective and analyses to UX Research and Design activities.
-- Challenging the status quo.
-- Coaching and mentoring junior developers.
+## Elsewhere
 
-## ✌️@chiangs
-
-If you are interested collaborating, curious about what a Design Technologist (DT) is, or just interested in an open-ended chat...I can be reached on the following platforms:
-
-🌎 <a rel="me" href="https://chiangs.dev">Chiangs.dev</a>
-
-🦣 <a rel="me" href="https://uiuxdev.social/@chiangs">Mastodon</a>
-
-🔗 <a rel="me" href="https://linkedin.com/in/chiangs">LinkedIn</a>
-
-<!---
-chiangs/chiangs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+→ stephenchiang.dev  
+→ linkedin.com/in/stephenchiang

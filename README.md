@@ -31,6 +31,6 @@ If something looks useful, use it. If something looks broken, open an issue.
 
 ## Elsewhere
 
-→ chiang.ink
+→ [chiang.ink](https://www.chiang.ink)
 
-→ linkedin.com/in/chiangs
+→ [LinkedIn](https://www.linkedin.com/in/chiangs)

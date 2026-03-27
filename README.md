@@ -31,5 +31,5 @@ If something looks useful, use it. If something looks broken, open an issue.
 
 ## Elsewhere
 
-→ stephenchiang.dev  
-→ linkedin.com/in/stephenchiang
+→ chiang.ink
+→ linkedin.com/in/chiangs
